@@ -1,5 +1,5 @@
 def rajzol():
-    lines = [
+    rajzocska = [
         " ______ ",
         "()_____)",
         " \\     \\",
@@ -8,7 +8,7 @@ def rajzol():
         "   ()_____)"
     ]
 
-    for line in lines:
+    for line in rajzocska:
         print(line)
 
 rajzol()
